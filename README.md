@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/amandewatnitrr"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandewatnitrr&theme=dracula" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Telmo1&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Telmo1&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Telmo1&theme=dracula" />
     </span></a>
 </p>
 </div> 
