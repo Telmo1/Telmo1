@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  <div> 
 <p align="center">
   <a href="https://github.com/Telmo1"><span>
-    <img height="40%" src="https://github-readme-stats.vercel.app/api?username=Telmo1&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img  width="40%" height="30%" src="https://github-readme-stats.vercel.app/api?username=Telmo1&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Telmo1&theme=radical" />
 </p>
 </div> 
