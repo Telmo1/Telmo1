@@ -35,11 +35,11 @@ Here are some ideas to get you started:
  <img  align="center" width="40"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img  align="center" width="40"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
  <img  align="center" width="40"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+ <img align="right" width="120" height="100" src="https://38.media.tumblr.com/06f0d5cf2e7491acc2fbe2e39031c1b1/tumblr_n9cnttf1FZ1ty0fy0o4_500.gif"/> 
+ <br>
 </div> 
+
+##
   
- ##
-  <div>
-    <img align="right" width="120" height="100" src="https://38.media.tumblr.com/06f0d5cf2e7491acc2fbe2e39031c1b1/tumblr_n9cnttf1FZ1ty0fy0o4_500.gif"/>
-  </div> 
   
 
